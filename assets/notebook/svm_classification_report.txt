@@ -1,0 +1,17 @@
+Historical saved output from the submitted notebook; not a new run.
+
+              precision    recall  f1-score   support
+
+        Left       0.57      0.40      0.47        10
+       Right       0.00      0.00      0.00         5
+          Up       0.68      0.90      0.77        30
+        Down       0.56      0.59      0.57        17
+      Dash-L       1.00      0.62      0.77         8
+      Dash-R       0.60      0.82      0.69        22
+      Dash-U       0.00      0.00      0.00         5
+      Dash-D       0.00      0.00      0.00         3
+
+    accuracy                           0.64       100
+   macro avg       0.43      0.42      0.41       100
+weighted avg       0.57      0.64      0.59       100
+

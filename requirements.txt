@@ -1,0 +1,9 @@
+# Dependency inventory, not a historical lockfile.
+# The assignment did not record exact package versions.
+# Publication checks use Python 3.11; CPU execution is supported by this notebook.
+torch
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
